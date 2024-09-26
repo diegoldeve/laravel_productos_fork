@@ -1,0 +1,33 @@
+.card-header {
+    font-family: 'Roboto', sans-serif; /* Cambia 'Roboto' por la fuente que elijas */
+    font-weight: 700; /* Asegúrate de que sea negrita */
+}
+
+
+    .custom-navbar {
+        background-color: #75684d; 
+        color: #ffffff; 
+    }
+
+    .btn-qstom {
+        background-color: #cd5d5c; /* Color de fondo personalizado */
+        border-color: #cd5d5c; /* Color del borde personalizado */
+        color: white; /* Color del texto */
+    }
+    
+    .btn-custom:hover {
+        background-color: #b05c5b; /* Color de fondo al pasar el mouse */
+        border-color: #b05c5b; /* Color del borde al pasar el mouse */
+    }
+    
+    .gradient-background {
+        background: linear-gradient(to bottom, #FF5733, #FFC300); /* Cambia estos colores por los que necesites */
+        border-radius: 10px; /* Ajusta el borde si es necesario */
+        padding: 20px; /* Espacio interno si es necesario */
+        height: 100%; /* Asegúrate de que el fondo ocupe todo el contenedor */
+    }
+    
+    .custom-header {
+        color: #cd5d5c;
+    }
+    
